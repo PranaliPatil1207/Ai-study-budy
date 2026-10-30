@@ -1,0 +1,13 @@
+question,A,B,C,D,answer,explanation
+Machine Learning is a branch of which technology?,AI,HTML,Database,Networking,A,Machine Learning is a subfield of Artificial Intelligence.
+Which library is commonly used for data frames in Python?,Pandas,Flask,Pygame,Tkinter,A,Pandas provides the DataFrame structure for tabular data.
+What does NLP stand for?,Natural Language Processing,Network Layer Protocol,Neural Logic Programming,Node Level Parsing,A,NLP is the field that lets computers understand human language.
+Which task splits text into words or sentences?,Tokenization,Compilation,Encryption,Rendering,A,Tokenization breaks text into smaller units called tokens.
+Which Python framework builds quick data web apps?,Streamlit,NumPy,Pytest,Matplotlib,A,Streamlit turns Python scripts into interactive web apps.
+What are common words like 'the' and 'is' called in NLP?,Stop words,Keywords,Entities,Lemmas,A,Stop words are very common words usually removed during text analysis.
+Which process reduces a word to its dictionary form?,Lemmatization,Tokenization,Parsing,Vectorization,A,Lemmatization maps 'running' to 'run'.
+Which structure stores data in rows and columns in Pandas?,DataFrame,Tuple,Stack,Queue,A,A DataFrame is a 2D labeled table.
+What does a supervised learning model need?,Labeled data,No data,Only images,Random noise,A,Supervised learning trains on input-output pairs.
+Which language is used to structure web pages?,HTML,SQL,Python,C,A,HTML defines the structure of web content.
+What does MCQ stand for?,Multiple Choice Question,Main Concept Quiz,Machine Code Query,Memory Cache Queue,A,MCQ is a question with several options and one correct answer.
+What is a corpus?,A collection of text,A type of CPU,A database index,A network cable,A,A corpus is a body of text used for NLP tasks.
